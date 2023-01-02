@@ -11,3 +11,4 @@ Then go to the Scratch project that you want to get the thumbnail from and copy 
 
 Once you have done that you have to paste in the Project ID 
 And then press the "Get Thumbnail" button
+![plot](https://raw.githubusercontent.com/RohanBoutelle/scratch-thumbnail-downloader/main/Screenshots/Screen%20Shot%202023-01-02%20at%2010.35.58%20AM.png)
